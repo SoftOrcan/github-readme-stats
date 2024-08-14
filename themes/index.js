@@ -13,9 +13,9 @@ export const themes = {
     bg_color: "fffefe",
   },
    sakura: {
-    title_color: "CB6B91",
-    icon_color: "98556C", // from IntelliJ ''Sakura'' theme
-    text_color: "FFBDD2",
+    title_color: "98556C",
+    icon_color: "FFBDD2", // from IntelliJ ''Sakura'' theme
+    text_color: "CB6B91",
     bg_color: "FEFAFA",
   },
 };
