@@ -12,16 +12,10 @@ export const themes = {
     text_color: "434d58",
     bg_color: "fffefe",
   },
-  transparent: {
-    title_color: "006AFF",
-    icon_color: "0579C3",
-    text_color: "417E87",
-    bg_color: "ffffff00",
-  },
    sakura: {
-    title_color: "98556C",
-    icon_color: "FFBDD2",
-    text_color: "CB6B91",
+    title_color: "FFBDD2",
+    icon_color: "CB6B91 ", // from IntelliJ ''Sakura'' theme
+    text_color: "FFD6E0",
     bg_color: "FEFAFA",
   },
 };
