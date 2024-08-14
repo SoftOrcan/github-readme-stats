@@ -16,7 +16,7 @@ export const RATE_LIMIT_SECONDS = 60 * 5; // 1 request per 5 minutes
  */
 
 /**
- * Simple uptime check fetcher for the PATs.
+ * Simple uptime check fetcher for the PATs. 
  *
  * @param {AxiosRequestHeaders} variables Fetcher variables.
  * @param {string} token GitHub token.
