@@ -18,6 +18,12 @@ export const themes = {
     text_color: "CB6B91",
     bg_color: "FEFAFA",
   },
+  sakura_darker: {
+    title_color: "98556C",
+    icon_color: "FFBDD2", // from IntelliJ ''Sakura'' theme
+    text_color: "CB6B91",
+    bg_color: "FFD6E0",
+  },
 };
 
 export default themes;
